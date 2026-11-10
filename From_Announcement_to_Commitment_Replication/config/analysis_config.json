@@ -1,0 +1,23 @@
+{
+  "study": "From Announcement to Commitment: Market Incumbency and the Credibility of U.S. Petrochemical Capacity Plans",
+  "authors": ["Vivek Bhatt", "Kapil Dwivedi", "Amaresh Chandra Singh"],
+  "random_seed": 20261019,
+  "permutation_draws": 10000,
+  "information_cutoff_month": "2025-12",
+  "rolling_origin": {
+    "min_resolved_projects_per_stage": 2,
+    "horizons_months": [12, 24, 36],
+    "probability_floor": 0.01,
+    "probability_ceiling": 0.99,
+    "calibration_unit": "physical_project_stage_equal_weight",
+    "sparse_cell_method": "beta_binomial_shrink_to_rolling_unconditional_rate",
+    "prior_strength_equivalent_projects": 4.0,
+    "monotonic_stage_repair": "cumulative_max_in_stage_order",
+    "stage_order": ["ANNOUNCED", "APPROVED", "CONSTRUCTION", "RAMP_UP"],
+    "evaluation_cutoff_month": "2025-12",
+    "benchmark_probability_clip": 1e-06,
+    "chain_benchmark_prior_strength": 5.0,
+    "bootstrap_draws": 2000,
+    "pre2010_training_file": "china_pre2010_training_history.csv"
+  }
+}

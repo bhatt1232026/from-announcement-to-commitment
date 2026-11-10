@@ -1,0 +1,7 @@
+{
+  "R1 primary b <= -0.20": true,
+  "R2 primary within-chain permutation p < 0.05": true,
+  "R3 b < 0 in every check 1-6 incl. every leave-one-chain-out": true,
+  "R4 b <= -0.20 greenfield only": true,
+  "ALL_CRITERIA_MET (R1-R4)": true
+}

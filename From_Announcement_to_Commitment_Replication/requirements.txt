@@ -1,0 +1,11 @@
+# From Announcement to Commitment: replication environment.
+# Authors: Vivek Bhatt, Kapil Dwivedi and Amaresh Chandra Singh
+# Python 3.13. Versions used to produce the published results and figures.
+# (pandas 2.2.3 / numpy 2.3.5 / scipy 1.17.0 / statsmodels 0.14.6 / matplotlib 3.10.8
+#  give numerically identical results; figure pixel sizes may differ slightly.)
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+pytest==9.1.1

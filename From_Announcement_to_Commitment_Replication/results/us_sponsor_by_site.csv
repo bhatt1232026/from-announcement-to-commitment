@@ -1,0 +1,5 @@
+sponsor_status,site_type,projects,committed,cancelled,pending,commit_rate
+entrant,brownfield,15,10,2,3,0.667
+entrant,greenfield,13,1,6,6,0.077
+incumbent,brownfield,45,43,0,2,0.956
+incumbent,greenfield,3,3,0,0,1.0

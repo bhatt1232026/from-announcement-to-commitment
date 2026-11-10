@@ -1,0 +1,77 @@
+project_id,sponsor_status,chain,first_public,rvd,precision,filing_type,lead,outcome
+US_ETH_SASOL_LCCP,incumbent,ethylene,2011-11,2013-07,year,LDEQ air permit application (activity PER20130016-31),20.0,committed
+US_ETH_LYB_LAPORTE,incumbent,ethylene,2011-12,2011-09-29,day,EPA GHG PSD application,-3.0,committed
+US_ETH_LYB_CHANNELVIEW_I,incumbent,ethylene,2011-12,2011-09-29,day,EPA GHG PSD application,-3.0,committed
+US_ETH_LYB_CORPUS,incumbent,ethylene,2013-03,2013-03-06,day,EPA GHG PSD application,0.0,committed
+US_ETH_SHELL_PA,incumbent,ethylene,2012-03,2014-05,month,PA DEP plan approval application,26.0,committed
+US_ETH_CPCHEM_USGC,incumbent,ethylene,2011-03,2011-12-19,day,EPA GHG PSD application,9.0,committed
+US_ETH_EXXON_BAYTOWN,incumbent,ethylene,2012-06,2012-05-22,day,EPA GHG PSD application,-1.0,committed
+US_ETH_GCGV,incumbent,ethylene,2016-07,2016-09-29,posting,Texas Chapter 313 application (Comptroller posting date),2.0,committed
+US_PE_BAYPORT,incumbent,polyethylene,2017-03,,,,,committed
+US_PE_LYB_HYPERZONE,incumbent,polyethylene,2016-09,,,,,committed
+US_ETHPE_PTTGC_OH,entrant,ethylene,2015-04,,,,,pending
+US_MEOH_NWIW_TACOMA,entrant,methanol,2015-12,2016-01-21,scoping_notice,City of Tacoma SEPA scoping (application date not found),1.0,cancelled
+US_MEOH_NWIW_KALAMA,entrant,methanol,2014-04,,,,,cancelled
+US_MEOH_LEUCADIA_LC,entrant,methanol,2010-07,,,,,cancelled
+US_MEOH_SLM_STJAMES,entrant,methanol,2013-02,2014-07-15,approval_only,LDEQ air permit received by SLM (original application date not found; major-modification application 2015-09-30),17.0,cancelled
+US_MEOH_YUHUANG_STJAMES,entrant,methanol,2014-07,2014-10-31,day,LDEQ PSD application,3.0,committed
+US_MEOH_MX_G3,entrant,methanol,2018-04,,,,,committed
+US_ETHPE_GTP_ORANGE,incumbent,ethylene,2019-07,,,,,committed
+US_MEOH_MX_G1,entrant,methanol,2012-01,2012-11-14,approval_only,LDEQ/EPA air permits granted (application date not found),10.0,committed
+US_MEOH_MX_G2,entrant,methanol,2013-04,,,,,committed
+US_MEOH_NATGAS,entrant,methanol,2014-02,2013-02-18,day,EPA GHG PSD application,,committed
+US_MEOH_LYB_CHV,incumbent,methanol,2011-12,2011-10-27,day,EPA GHG PSD application,-2.0,committed
+US_MEOH_FAIRWAY_CL,entrant,methanol,2013-05,2012-08-10,day,EPA GHG PSD application,,committed
+US_MEOH_PAMPA,entrant,methanol,2015-07,,,,,committed
+US_MEOH_BIGLAKE,entrant,methanol,2013-07,2014-06-09,approval_only,LDEQ air permits granted (application date not found),11.0,cancelled
+US_PE_GEMINI_LAPORTE,incumbent,polyethylene,2013-07,,,,,committed
+US_PE_EXXON_BEAUMONT,incumbent,polyethylene,2016-11,,,,,committed
+US_PE_FORMOSA_PC_EXP,incumbent,polyethylene,2014-08,,,,,committed
+US_PE_DOW_FREEPORT_ELITE,incumbent,polyethylene,2013-03,,,,,committed
+US_PE_DOW_PLAQUEMINE_LDPE,incumbent,polyethylene,2013-08,,,,,committed
+US_MEOH_LIBERTYONE_WV,entrant,methanol,2016-01,2016-11-28,day,WV DAQ permit application received,10.0,committed
+US_MEOH_SYNGAS_STJAMES,entrant,methanol,2015-10,,,,,pending
+US_MEOH_IGP_MYRtle,entrant,methanol,2018-01,2018-01-04,approval_only,LDEQ Title V/PSD permit issued (application date not found),0.0,pending
+US_PE_LYB_MATAGORDA_EXP,incumbent,polyethylene,2014-02,,,,,committed
+US_PE_DOW_STCHARLES_DEBOT,incumbent,polyethylene,2016-07,,,,,committed
+US_PE_ASCENT_WV,entrant,polyethylene,2013-11,2014-05-12,day,WV DEP air permit application (redacted forms dated 2014-05-12),6.0,cancelled
+US_PE_BADLANDS_ND,entrant,polyethylene,2014-10,,,,,pending
+US_PE_APPRESINS_OH,entrant,polyethylene,2014-09,,,,,pending
+US_PE_DOW_SEADRIFT_EXP,incumbent,polyethylene,2016-07,,,,,committed
+US_PE_DOW_POLY7_FREEPORT,incumbent,polyethylene,2017-05,,,,,committed
+US_ETH_WLK_PETRO2_LC,incumbent,ethylene,2011-04,,,,,committed
+US_ETH_WLK_CALVERT14,incumbent,ethylene,2013-10,,,,,committed
+US_ETH_WLK_PETRO1_LC,incumbent,ethylene,2011-04,,,,,committed
+US_ETH_INEOS_CHOCBAY,incumbent,ethylene,2014-07,,,,,committed
+US_ETH_WILLIAMS_GEISMAR,incumbent,ethylene,2011-07,,,,,committed
+US_ETH_CPCHEM_SWEENY14,incumbent,ethylene,2013-06,,,,,committed
+US_ETH_BASF_TOTAL_PA14,incumbent,ethylene,2014-03,2011-03-15,day,EPA GHG PSD application,,committed
+US_ETH_OXY_INGLESIDE,entrant,ethylene,2013-10,2012-12-27,day,TCEQ PSD application (EPA GHG 2012-12-28),-10.0,committed
+US_ETH_LACC_LAKECHARLES,entrant,ethylene,2013-12,,,,,committed
+US_ETH_BAYSTAR_PORTARTHUR,incumbent,ethylene,2015-04,2015-04-06,day,TCEQ permit application (reported),0.0,committed
+US_ETH_FORMOSA_PC_OL3,incumbent,ethylene,2014-01,2012-12-11,day,EPA GHG PSD application,-13.0,committed
+US_ETH_DOW_STCHARLES_RESTART,incumbent,ethylene,2011-04,,,,,committed
+US_PP_BRASKEM_DELTA,incumbent,polypropylene,2017-06,,,,,committed
+US_PP_EXXON_BATON_ROUGE,incumbent,polypropylene,2019-03,,,,,committed
+US_PDH_ENTERPRISE_1,incumbent,propylene,2012-06,2012-12-18,day,EPA GHG PSD application,6.0,committed
+US_PDH_ENTERPRISE_2,incumbent,propylene,2019-09,,,,,committed
+US_EO_HUNTSMAN_PORT_NECHES,incumbent,EO_MEG,2012-04,,,,,committed
+US_PVC_SHINTECH_2013_EXP,incumbent,PVC_VCM,2013-06,,,,,committed
+US_PVC_SHINTECH_2018_PHASE1,incumbent,PVC_VCM,2018-07,,,,,committed
+US_PVC_SHINTECH_2021_PHASE2,incumbent,PVC_VCM,2021-01,,,,,committed
+US_PP_FORMOSA_PP3,incumbent,polypropylene,2018-05,,,,,committed
+US_PDH_FORMOSA_POINT_COMFORT,incumbent,propylene,2012-02,2012-12-11,day,EPA GHG PSD application,10.0,committed
+US_PVC_FORMOSA_BATON_ROUGE_2017,incumbent,PVC_VCM,2017-12,,,,,committed
+US_PVC_WESTLAKE_CALVERT_2012,incumbent,PVC_VCM,2012-10,,,,,committed
+US_PVC_WESTLAKE_GEISMAR_2018,incumbent,PVC_VCM,2018-02,,,,,committed
+US_PROP_BASF_FREEPORT_MTP,incumbent,propylene,2014-05,,,,,pending
+US_PDH_ASCEND_CHOCBAY,entrant,propylene,2013-05,2013-02-12,day,EPA GHG PSD application,-3.0,pending
+US_PDH_REXTAC_ODESSA,entrant,propylene,2013-11,,,,,cancelled
+US_CS_ETH_DOW_TX9,incumbent,ethylene,2012-04,2012-12-04,day,EPA GHG PSD application,8.0,committed
+US_CS_PDH_DOW_FREEPORT,incumbent,propylene,2011-04,,,,,committed
+US_CS_ETH_MOTIVA_PA,entrant,ethylene,2018-12,2018-12-20,filing_reported,Texas Chapter 313 application (reported),0.0,cancelled
+US_CS_ETH_INDORAMA_LC,entrant,ethylene,2015-09,2016-08-29,approval_only,LDEQ construction air permit received (application date not found),11.0,committed
+US_CS_ETH_ENTERPRISE_TX,entrant,ethylene,2022-05,2022-05-05,day,Texas Chapter 313 application,0.0,pending
+US_CS_EO_INEOS_LAPORTE,entrant,EO_MEG,2011-12,2013-08,month,EPA GHG PSD application,20.0,pending
+US_CS_MEG_SHELL_GEISMAR,incumbent,EO_MEG,2019-01,2019-01-17,approval_only,Louisiana ITEP local abatement approved by Ascension Parish Council (application date not found),0.0,pending
+US_CS_MEOH_CELANESE_BISHOP,entrant,methanol,2014-03,2015-04-16,filing_reported,TCEQ air permit application reported as filed,13.0,pending

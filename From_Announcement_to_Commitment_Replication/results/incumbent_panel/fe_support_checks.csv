@@ -1,0 +1,11 @@
+spec,check,status
+preferred_firmxmonth,variance_survival,FAIL
+preferred_firmxmonth,nonzero_observations,PASS
+preferred_firmxmonth,contributing_events,PASS
+preferred_firmxmonth,effective_chains,FAIL
+preferred_firmxmonth,pairwise_correlation,PASS
+fallback_firmxyear,variance_survival,PASS
+fallback_firmxyear,nonzero_observations,PASS
+fallback_firmxyear,contributing_events,PASS
+fallback_firmxyear,effective_chains,FAIL
+fallback_firmxyear,pairwise_correlation,PASS

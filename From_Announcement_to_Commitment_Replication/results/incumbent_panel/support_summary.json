@@ -1,0 +1,48 @@
+{
+  "authors": [
+    "Vivek Bhatt",
+    "Kapil Dwivedi",
+    "Amaresh Chandra Singh"
+  ],
+  "scope": "F/A/C news construction and fixed-effect support diagnostic only",
+  "outcome_model_estimated": false,
+  "masked_rows": 68,
+  "thresholds_fixed_before_support_computation": {
+    "min_variance_survival": 0.01,
+    "min_nonzero_observations": 100,
+    "min_contributing_events": 5,
+    "min_effective_chains": 3.0,
+    "max_abs_pairwise_corr": 0.95
+  },
+  "panel_rows_all_2010_2025": 15168,
+  "support_sample_rows_full_12m_lag": 14152,
+  "support_sample_start_month": "2011-01",
+  "support_sample_end_month": "2025-12",
+  "incumbent_firms": 50,
+  "firm_chain_units": 79,
+  "chains": 7,
+  "qualifying_binary_commitment_events": 30,
+  "source_locked_event_rows_mapped_to_primary_incumbents": 34,
+  "unconditional_monthly_incumbent_commitment_hazard": 0.0021198417184850197,
+  "preferred_checks": {
+    "variance_survival": false,
+    "nonzero_observations": true,
+    "contributing_events": true,
+    "effective_chains": false,
+    "pairwise_correlation": true
+  },
+  "preferred_pass": false,
+  "preferred_max_abs_primary_corr": 0.23688700350691255,
+  "fallback_checks": {
+    "variance_survival": true,
+    "nonzero_observations": true,
+    "contributing_events": true,
+    "effective_chains": false,
+    "pairwise_correlation": true
+  },
+  "fallback_pass": false,
+  "fallback_max_abs_primary_corr": 0.10576130155597577,
+  "selected_specification": "STOP",
+  "support_gate_pass": false,
+  "decision": "NOT_ESTIMATED_INSUFFICIENT_SUPPORT"
+}

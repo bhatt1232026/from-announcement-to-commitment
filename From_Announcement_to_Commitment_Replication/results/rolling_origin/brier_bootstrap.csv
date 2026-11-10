@@ -1,0 +1,28 @@
+horizon,comparison,metric,n_rows,n_projects,diff,ci95_lo,ci95_hi,significant,bootstrap_draws
+12,rolling_stage - unconditional,brier,1862,32,-0.003,-0.0095,0.0044,False,2000
+12,rolling_stage - unconditional,ll,1862,32,-0.0068,-0.0304,0.0236,False,2000
+12,rolling_stage - chain_base,brier,1862,32,-0.0025,-0.0094,0.0057,False,2000
+12,rolling_stage - chain_base,ll,1862,32,-0.0079,-0.036,0.023,False,2000
+12,chain_base - unconditional,brier,1862,32,-0.0006,-0.0052,0.0039,False,2000
+12,chain_base - unconditional,ll,1862,32,0.0011,-0.0162,0.0187,False,2000
+12,level rolling_stage,brier,1862,32,0.172,,,,2000
+12,level unconditional,brier,1862,32,0.175,,,,2000
+12,level chain_base,brier,1862,32,0.1744,,,,2000
+24,rolling_stage - unconditional,brier,1735,31,-0.0167,-0.0362,0.0031,False,2000
+24,rolling_stage - unconditional,ll,1735,31,-0.0306,-0.0788,0.0254,False,2000
+24,rolling_stage - chain_base,brier,1735,31,-0.0186,-0.038,0.0031,False,2000
+24,rolling_stage - chain_base,ll,1735,31,-0.0397,-0.0849,0.0132,False,2000
+24,chain_base - unconditional,brier,1735,31,0.0019,-0.0109,0.0134,False,2000
+24,chain_base - unconditional,ll,1735,31,0.0091,-0.0194,0.038,False,2000
+24,level rolling_stage,brier,1735,31,0.2404,,,,2000
+24,level unconditional,brier,1735,31,0.2571,,,,2000
+24,level chain_base,brier,1735,31,0.259,,,,2000
+36,rolling_stage - unconditional,brier,1610,31,-0.0184,-0.0404,0.0062,False,2000
+36,rolling_stage - unconditional,ll,1610,31,-0.037,-0.0817,0.0128,False,2000
+36,rolling_stage - chain_base,brier,1610,31,-0.0248,-0.0468,0.0009,False,2000
+36,rolling_stage - chain_base,ll,1610,31,-0.0507,-0.0967,-0.0009,True,2000
+36,chain_base - unconditional,brier,1610,31,0.0064,-0.0092,0.0195,False,2000
+36,chain_base - unconditional,ll,1610,31,0.0137,-0.0174,0.042,False,2000
+36,level rolling_stage,brier,1610,31,0.2332,,,,2000
+36,level unconditional,brier,1610,31,0.2517,,,,2000
+36,level chain_base,brier,1610,31,0.2581,,,,2000

@@ -1,0 +1,7 @@
+sample,n,n_established,n_newcomer,realized_established,realized_newcomer,gap,fisher_p,b_newcomer_adj_logcap,p_hc1,direction_consistent
+PRIMARY: all 46 physical projects,46,28,18,0.571,0.889,0.317,0.0266,0.299,0.0153,False
+first public <= 2022-12 (>=36 months follow-up; analogous to U.S. rule),41,23,18,0.652,0.889,0.237,0.1422,0.217,0.0974,False
+doubtful outcome codings flipped,46,28,18,0.643,0.833,0.19,0.1968,0.19,0.1551,False
+doubtful status codings flipped,46,31,15,0.581,0.933,0.353,0.018,0.352,0.0013,False
+excluding central SOEs,31,14,17,0.714,0.941,0.227,0.1484,0.208,0.1342,False
+private sponsors only,20,6,14,0.833,0.929,0.095,0.5211,0.041,0.8473,False

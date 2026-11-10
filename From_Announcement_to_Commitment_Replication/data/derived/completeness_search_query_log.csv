@@ -1,0 +1,53 @@
+query_id,query_family,query_text,run_date,relevant_hits,candidate_ids
+Q01,chain,ethylene cracker project cancelled United States,2026-10-19,Motiva Port Arthur cracker; Energy Transfer Nederland,US_CS_ETH_MOTIVA_PA; US_CS_ETH_ET_NEDERLAND
+Q02,chain,ethylene cracker project shelved Texas OR Louisiana,2026-10-19,Enterprise Beaumont/Orange cracker; Indorama Lake Charles restart,US_CS_ETH_ENTERPRISE_TX; US_CS_ETH_INDORAMA_LC
+Q03,chain,ethylene cracker plans scrapped Gulf Coast,2026-10-19,ExxonMobil Calhoun (Coastal Plain) complex paused 2025-10,US_CS_PE_EXXON_CALHOUN
+Q04,chain,ethylene cracker final investment decision delayed,2026-10-19,PTTGC Ohio (in base register); Lotte/Axiall LACC FID delay (in base register),
+Q05,chain,polyethylene plant project cancelled United States,2026-10-19,Braskem ASCENT (in base register; outcome corrected),CORR_US_PE_ASCENT_WV
+Q06,chain,polyethylene plant project shelved Texas OR Louisiana,2026-10-19,Formosa Sunshine permits (in base register),
+Q07,chain,polyethylene plant plans scrapped Gulf Coast,2026-10-19,ExxonMobil Calhoun (duplicate),
+Q08,chain,polyethylene plant final investment decision delayed,2026-10-19,CPChem/QP USGC II FID delay (in base register); PTTGC Ohio (in base register),
+Q09,chain,polypropylene plant project cancelled United States,2026-10-19,"closures only (Sunoco Bayport, Braskem idling) - out of scope",
+Q10,chain,polypropylene plant project shelved Texas OR Louisiana,2026-10-19,closures only; Ascend PDH deferral (in base register),
+Q11,chain,polypropylene plant plans scrapped Gulf Coast,2026-10-19,ExxonMobil Calhoun (duplicate),
+Q12,chain,polypropylene plant final investment decision delayed,2026-10-19,BASF Freeport MTP deferral (in base register); Canadian PDH/PP (out of scope),
+Q13,chain,propane dehydrogenation / propylene plant project cancelled United States,2026-10-19,no new in-scope candidate beyond the base register (PetroLogistics logged),
+Q14,chain,propane dehydrogenation / propylene plant project shelved Texas OR Louisiana,2026-10-19,Ascend Chocolate Bayou indefinitely tabled (in base register),
+Q15,chain,propane dehydrogenation / propylene plant plans scrapped Gulf Coast,2026-10-19,PetroLogistics Gulf Coast PDH plan (no named site),NA_PETROLOGISTICS_PDH2
+Q16,chain,propane dehydrogenation / propylene plant final investment decision delayed,2026-10-19,ICIS EPCA 2014 list: Dow Freeport PDH; Dow 2nd PDH option; PetroLogistics withdrawn; Formosa/Enterprise delays (in base register),US_CS_PDH_DOW_FREEPORT; NA_DOW_PDH2; NA_PETROLOGISTICS_PDH2
+Q17,chain,ethylene oxide / glycol plant project cancelled United States,2026-10-19,INEOS Oxide EO/EG plant indefinitely suspended 2014,US_CS_EO_INEOS_LAPORTE
+Q18,chain,ethylene oxide / glycol plant project shelved Texas OR Louisiana,2026-10-19,Shell Geismar MEG plan 2019; Nan Ya Point Comfort MEG,US_CS_MEG_SHELL_GEISMAR; US_CS_MEG_NANYA_PC
+Q19,chain,ethylene oxide / glycol plant plans scrapped Gulf Coast,2026-10-19,INEOS (duplicate); Energy Transfer (duplicate),
+Q20,chain,ethylene oxide / glycol plant final investment decision delayed,2026-10-19,INEOS site nomination 2011; Nan Ya delay (duplicates),
+Q21,chain,methanol plant project cancelled United States,2026-10-19,NWIW Kalama/Tacoma (in base register),
+Q22,chain,methanol plant project shelved Texas OR Louisiana,2026-10-19,SLM on hold; Methanex G3 pause (in base register),
+Q23,chain,methanol plant plans scrapped Gulf Coast,2026-10-19,Nacero Gulf Coast methanol (no named site),NA_NACERO
+Q24,chain,methanol plant final investment decision delayed,2026-10-19,Lake Charles Methanol II (2024); Syngas St James (in base register),US_CS_MEOH_LCM2
+Q25,chain,PVC / vinyl chloride plant project cancelled United States,2026-10-19,Westlake closures 2025 - out of scope,
+Q26,chain,PVC / vinyl chloride plant project shelved Texas OR Louisiana,2026-10-19,closures only,
+Q27,chain,PVC / vinyl chloride plant plans scrapped Gulf Coast,2026-10-19,closures only,
+Q28,chain,PVC / vinyl chloride plant final investment decision delayed,2026-10-19,Orbia ~1 Mt PVC (site not set); Shintech phase 2 delay (in base register),NA_ORBIA_PVC
+Q29,firm,Dow cancels OR shelves OR scraps U.S. plant project,2026-10-19,"plant closures, Canadian Path2Zero - no in-scope U.S. project",
+Q30,firm,ExxonMobil cancels OR shelves OR scraps U.S. plant project,2026-10-19,Calhoun complex (duplicate); Baytown hydrogen (out of scope),
+Q31,firm,Chevron Phillips cancels OR shelves OR scraps U.S. plant project,2026-10-19,paraxylene closure (out of scope),
+Q32,firm,LyondellBasell cancels OR shelves OR scraps U.S. plant project,2026-10-19,refinery/plant closures (out of scope),
+Q33,firm,Shell cancels OR shelves OR scraps U.S. plant project,2026-10-19,GTL abandoned (out of scope); Monaca sale,
+Q34,firm,Westlake cancels OR shelves OR scraps U.S. plant project,2026-10-19,closures (out of scope),
+Q35,firm,Formosa cancels OR shelves OR scraps U.S. plant project,2026-10-19,Sunshine permits (in base register); Nan Ya MEG suspension (duplicate),
+Q36,firm,INEOS cancels OR shelves OR scraps U.S. plant project,2026-10-19,INEOS EO/EG La Porte (duplicate),
+Q37,firm,BASF cancels OR shelves OR scraps U.S. plant project,2026-10-19,BASF/Yara ammonia (out of scope); BASF Freeport MTP (in base register),
+Q38,firm,Total cancels OR shelves OR scraps U.S. plant project,2026-10-19,Motiva cessation 2021 (duplicate); Baystar (in base register),
+Q39,firm,Sasol cancels OR shelves OR scraps U.S. plant project,2026-10-19,GTL cancelled (out of scope),
+Q40,firm,Braskem cancels OR shelves OR scraps U.S. plant project,2026-10-19,ASCENT abandoned 2019-07 (outcome correction),CORR_US_PE_ASCENT_WV
+Q41,firm,Enterprise cancels OR shelves OR scraps U.S. plant project,2026-10-19,pipeline/fractionator deferrals (out of scope),
+Q42,firm,Shintech cancels OR shelves OR scraps U.S. plant project,2026-10-19,Plaquemine phase 2 delay (in base register),
+Q43,firm,OxyChem cancels OR shelves OR scraps U.S. plant project,2026-10-19,closures (out of scope),
+Q44,firm,Huntsman cancels OR shelves OR scraps U.S. plant project,2026-10-19,EO idling (out of scope),
+Q45,firm,Eastman cancels OR shelves OR scraps U.S. plant project,2026-10-19,Longview recycling plant (out of scope),
+Q46,firm,Williams cancels OR shelves OR scraps U.S. plant project,2026-10-19,Alberta PDH (non-U.S.),
+Q47,firm,Celanese cancels OR shelves OR scraps U.S. plant project,2026-10-19,"second U.S. methanol plant at Bishop, TX",US_CS_MEOH_CELANESE_BISHOP
+Q48,firm,Methanex cancels OR shelves OR scraps U.S. plant project,2026-10-19,G3 pause/restart (in base register),
+R01,register_reread,earlier U.S. ethylene reconciliation register,2026-10-19,US_ETH_DOW_TX9 matched in the reconciliation register but missing from the base register,US_CS_ETH_DOW_TX9
+R02,register_reread,earlier U.S. polyethylene reconciliation register,2026-10-19,"label mismatches only (Gemini, Exxon Beaumont present under other IDs)",
+R03,register_reread,earlier six-chain expansion register,2026-10-19,Lotte MEG = derivative of integrated LACC complex (counted once); non-chain rows out of scope,
+R04,register_reread,earlier unresolved-project registers,2026-10-19,all rows already in the base register,

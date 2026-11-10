@@ -1,0 +1,47 @@
+physical_project_id,t1,t2_min,capacity_tpa,primary_chain,realized,outcome_doubt,status,ownership,status_doubt,coding_note,newcomer,t1_le_2022,logcap
+CN_BAOFENG_INNER_MONGOLIA_PHASE1,2022-11-21,2025-04-10,2650000.0,polyethylene,1,0,established,private,0,Baofeng Ningdong PE/PP since 2014,0,True,14.790070197962406
+CN_BOHAI_PDH_TECH_CHANGE,2024-08-27,,600000.0,propylene_pdh,0,0,established,local_SOE,0,Bohai PDH operating since 2013,0,False,13.304684934198283
+CN_COAL_YULIN,2020-12-02,,900000.0,polypropylene,0,0,established,central_SOE,0,China Coal Yulin phase I / Mengda PE-PP,0,True,13.710150042306449
+CN_DONGHUA_CAofeidian_P1,2015-07-28,,1060000.0,propylene_pdh,0,0,established,private,0,Donghua Zhangjiagang PDH/PP operating from 2015-05,0,True,13.87377946608825
+CN_DONGHUA_NINGBO_P1,2012-10-25,2016-11-01,1060000.0,propylene_pdh,1,0,newcomer,private,0,Donghua had no PDH/PP before 2015,1,True,13.87377946608825
+CN_DONGHUA_NINGBO_P2,2015-08-05,,660000.0,propylene_pdh,1,1,established,private,0,Zhangjiagang PDH operating before 2015-08,0,True,13.399995114002609
+CN_DONGHUA_YANGZIJIANG_P1,2011-09-14,2015-05-01,1000000.0,propylene_pdh,1,0,newcomer,private,0,LPG distributor entering PDH,1,True,13.815510557964274
+CN_ETH_GULEI,2016-01-20,2021-08-31,800000.0,ethylene,1,0,established,central_SOE,0,Sinopec-led JV,0,True,13.592367006650065
+CN_ETH_HUAJIN_ARAMCO,2019-02-22,,1500000.0,ethylene,0,0,established,central_SOE,0,Norinco/Huajin operated ethylene in Panjin,0,True,14.22097566607244
+CN_ETH_SHENGHONG,2017-12-29,2022-12-01,1670000.0,ethylene,1,0,established,private,1,Shenghong Sierbang MTO produced ethylene from 2016,0,True,14.328334184392938
+CN_ETH_TIANJIN_NANGANG,2021-03-26,2024-11-11,1200000.0,ethylene,1,0,established,central_SOE,0,Sinopec,0,True,13.997832114758229
+CN_ETH_WUHAN,2008-02-28,2013-09-13,800000.0,ethylene,1,0,established,central_SOE,0,Sinopec,0,True,13.592367006650065
+CN_FUJIAN_MEIDE_PDH_P1,2011-06-03,2021-05-28,630000.0,propylene_pdh,1,0,newcomer,private,0,China Soft Packaging/Meide new to PDH,1,True,13.353475098367715
+CN_GUANGHUI_HAMI_MEG,2019-09-01,2022-03-01,400000.0,eo_meg,1,0,newcomer,private,0,Guanghui new to MEG,1,True,12.89921982609012
+CN_JUZHENGYUAN_DONGGUAN_P1,2017-05-10,2019-09-26,1200000.0,polypropylene,1,0,newcomer,private,0,,1,True,13.997832114758229
+CN_JUZHENGYUAN_DONGGUAN_P2,2022-01-01,2023-06-01,1200000.0,polypropylene,1,0,established,private,0,phase I operating since 2019,0,True,13.997832114758229
+CN_MEIJIN_HUASHENG_MEG,2019-04-23,,300000.0,eo_meg,1,1,newcomer,private,0,coke producer new to MEG,1,True,12.611537753638338
+CN_MEOH_HUADIAN_YUHENG,2011-03-31,,3000000.0,methanol,0,0,newcomer,central_SOE,1,Huadian (power group) without prior methanol capacity,1,True,14.914122846632385
+CN_MEOH_SHENHUA_YULIN,2017-11-20,2020-12-01,2200000.0,methanol,1,0,established,central_SOE,0,primary chain methanol; Shenhua operated methanol (Baotou),0,True,14.603967918328545
+CN_QINGDAO_HAIWAN_PVC,2019-04-13,2020-09-22,400000.0,edc_pvc,1,0,established,local_SOE,0,,0,True,12.89921982609012
+CN_QIXIANG_PDH,2019-04-15,2022-03-19,700000.0,propylene_pdh,1,0,newcomer,private,1,no prior PDH/propylene unit,1,True,13.458835614025542
+CN_SATELLITE_LYG_C2_STAGE2,2020-02-18,2022-08-27,730000.0,eo_meg,1,0,newcomer,private,1,no EO/EG operating before 2020-02 (stage I started 2021),1,True,13.500799813124575
+CN_SATELLITE_PINGHU_PDH_P1,2012-02-03,2014-09-01,450000.0,propylene_pdh,1,0,newcomer,private,0,,1,True,13.017002861746503
+CN_SHENHUA_BAOTOU_UPGRADE,2020-03-17,,400000.0,polypropylene,0,0,established,central_SOE,0,Baotou CTO PP since 2010,0,True,12.89921982609012
+CN_TANGSHAN_XUYANG,2020-01-20,,3950000.0,ethylene,0,0,newcomer,private,0,coke group new to refining/ethylene,1,True,15.189226136877304
+CN_TIANJIN_BOHUA_PVC_P2,2024-04-21,2025-09-26,400000.0,edc_pvc,1,0,established,local_SOE,0,,0,False,12.89921982609012
+CN_WANHUA_YANTAI_ETHYLENE,2018-11-02,2020-11-09,2000000.0,ethylene,1,0,newcomer,local_SOE,0,Wanhua had PDH but no ethylene before 2018-11,1,True,14.508657738524219
+CN_WANHUA_YANTAI_HDPE_PP,2019-01-29,2020-09-01,300000.0,polypropylene,1,0,newcomer,local_SOE,1,no PE/PP unit before 2019 (to be verified),1,True,12.611537753638338
+CN_YANCHANG_YUHENG_REDESIGN,2021-11-05,,5220000.0,methanol,0,1,established,local_SOE,0,Yanchang operated methanol (Yulin/Jingbian),0,True,15.468007959858822
+CN_YULONG_ISLAND_P1,2020-09-16,,7800000.0,ethylene,1,0,newcomer,local_SOE,0,new entity; no prior ethylene,1,True,15.86963429165982
+CN_ZHONGJIANG_PP1,2011-06-03,2017-04-01,350000.0,polypropylene,1,0,newcomer,private,0,,1,True,12.765688433465597
+CN_ZHONGJING_PP1,2011-06-03,2016-04-01,350000.0,polypropylene,1,0,newcomer,private,0,,1,True,12.765688433465597
+CN_ZHONGJING_PP_1200,2021-03-01,2022-12-08,1200000.0,polypropylene,1,0,established,private,0,Zhongjing PP operating since 2016,0,True,13.997832114758229
+CN_ZHONGTAI_FUKANG_PVC_P1,2010-05-01,2012-09-22,400000.0,edc_pvc,1,0,established,local_SOE,0,,0,True,12.89921982609012
+CN_ZPC_ZHOUSHAN_P1,2017-04-07,2020-01-01,2900000.0,ethylene,1,0,newcomer,private,0,Rongsheng-led; no prior ethylene,1,True,14.880221294956703
+CN_ZPC_ZHOUSHAN_P2,2017-04-07,2022-03-31,2900000.0,ethylene,1,0,newcomer,private,0,same approval date as phase I,1,True,14.880221294956703
+P2A_BASF_ZHANJIANG,2018-07-09,2026-01-01,1500000.0,ethylene,0,1,established,foreign,0,BASF-YPC Nanjing cracker,0,True,14.22097566607244
+P2A_EXXON_HUIZHOU,2018-09-05,2025-07-01,2800000.0,polyethylene,1,0,established,foreign,0,ExxonMobil in FREP Fujian cracker,0,True,14.845129975145433
+P2A_FUJIAN_FREP_2007,2002-10-21,2009-11-11,1600000.0,ethylene,1,0,established,foreign_JV,0,Sinopec-led JV with Aramco/ExxonMobil,0,True,14.28551418721001
+P2A_GUANGXI_TRANSFORMATION,2022-06-24,2025-10-26,1500000.0,ethylene,1,0,established,central_SOE,0,PetroChina,0,True,14.22097566607244
+P2A_GULEI_PHASE2,2022-06-08,,1500000.0,ethylene,0,0,established,central_SOE,0,Sinopec-led JV,0,True,14.22097566607244
+P2A_JILIN_TRANSFORMATION,2022-10-28,2025-08-31,1600000.0,ethylene,1,0,established,central_SOE,0,PetroChina,0,True,14.28551418721001
+P2A_SINOPEC_HENAN_ETH,2022-02-17,,1000000.0,ethylene,0,1,established,central_SOE,0,Sinopec,0,True,13.815510557964274
+P2A_SINOPEC_MAOMING_ETH,2023-11-17,,1400000.0,ethylene,0,0,established,central_SOE,0,Sinopec,0,False,14.151982794585487
+P2A_SINOPEC_ZHENHAI_15,2023-08-11,,1500000.0,ethylene,0,0,established,central_SOE,0,Sinopec,0,False,14.22097566607244
+P2A_TARIM_PHASE2,2023-02-08,,2400000.0,ethylene,0,0,established,central_SOE,0,PetroChina,0,False,14.690979295318174

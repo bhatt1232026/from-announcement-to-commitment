@@ -1,0 +1,18 @@
+physical_project_id,realized_by_2025_12,evidence_date,doubt_flag,note,source
+CN_BOHAI_PDH_TECH_CHANGE,0,2024,0,fund-raising project withdrawn (register: terminal negative),project register audit note
+CN_COAL_YULIN,0,2026-07,0,construction completion (zhongjiao) only in Jul 2026,https://finance.sina.com.cn/money/future/indu/2026-07-16/doc-inihyiyh4432661.shtml
+CN_DONGHUA_CAofeidian_P1,0,2017,0,could not start; funds reallocated (register: terminal),project register audit note
+CN_DONGHUA_NINGBO_P2,1,2019,1,broker report: Ningbo phase II put into operation,https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/667957788047/index.phtml
+CN_ETH_HUAJIN_ARAMCO,0,2026-10,0,first crude cargo Oct 2026; start-up 2027,https://www.rigzone.com/news/aramcos_new_china_refinery_venture_gets_1st_crude_cargo-14-oct-2026-184848-article
+CN_MEIJIN_HUASHENG_MEG,1,2022,1,mechanical completion Dec 2021; issuer later reports 300 kt/y EG capacity in operation,https://news.futunn.com/en/post/71178120/meijin-energy-000723-sz-the-company-currently-has-an-ethylene
+CN_MEOH_HUADIAN_YUHENG,0,2018-07,0,original scope terminated/transferred (register),project register audit note
+CN_SHENHUA_BAOTOU_UPGRADE,0,2025-07,0,still under construction Jul 2025,https://finance.sina.com.cn/roll/2025-07-23/doc-infhmxpv3770689.shtml
+CN_TANGSHAN_XUYANG,0,2021-08,0,project in 'reserve' status after ownership change,https://chem.jgvogel.cn/c/2021-08-13/1127079.shtml
+CN_YANCHANG_YUHENG_REDESIGN,0,2024,1,still construction-in-progress in 2024 issuer accounts; no start-up found,project register audit note
+CN_YULONG_ISLAND_P1,1,2025-09,0,first cracker in operation; second cracker Sep 2025,https://energynews.oedigital.com/energy-markets/2025/09/29/sources-chinese-refiner-yulong-has-brought-a-second-steam-cracker-into-operation
+P2A_BASF_ZHANJIANG,0,2026-01,1,register T2 = 2026-01 (one month after horizon),project register
+P2A_GULEI_PHASE2,0,2024-11,0,groundbreaking Nov 2024,https://wb.fujian.gov.cn/English/latest/202411/t20241120_6569418.htm
+P2A_SINOPEC_HENAN_ETH,0,2025-12,1,planned completion Dec 2025; no start-up found by horizon,https://chem.jgvogel.cn/c1392657.shtml
+P2A_SINOPEC_MAOMING_ETH,0,2024-06,0,basic design review completed Jun 2024,http://lpec.sinopec.com/lpec/en/news/com_news/20240611/news_20240611_612606215766.shtml
+P2A_SINOPEC_ZHENHAI_15,0,2023,0,construction start; no start-up by horizon,https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=985854
+P2A_TARIM_PHASE2,0,2026,0,first start-up announced 2026,"https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43I0BD:0-petrochina-announces-first-start-up-of-ethylene-project-in-xinjiang/"

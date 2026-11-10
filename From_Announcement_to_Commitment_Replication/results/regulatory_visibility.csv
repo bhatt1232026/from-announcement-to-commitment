@@ -1,0 +1,11 @@
+analysis,group,n,value,note
+RV1 coverage,entrant,28,0.607,17 with RVD; 9 exact application dates
+RV1 coverage,incumbent,48,0.333,16 with RVD; 14 exact application dates
+RV2 lead (exact application dates),incumbent,13,0.0,share filed before first public: 0.38
+RV2 lead (exact application dates),entrant,7,3.0,share filed before first public: 0.29; Mann-Whitney p = 1.000
+RV2 lead (all RVD incl. upper bounds),incumbent,15,0.0,share filed before first public: 0.33
+RV2 lead (all RVD incl. upper bounds),entrant,15,6.0,share filed before first public: 0.13; Mann-Whitney p = 0.269
+RV3 primary LPM on projects with RVD <= 2022-12,entrant coefficient,33,-0.405,"95% CI [-0.732, -0.079]; perm p = 0.0073; commit rate inc 0.938 / ent 0.412; n_inc 16, n_ent 17; controls logcap+greenfield+post2015"
+RV3 sensitivity: exact application dates only,entrant coefficient,23,-0.383,"95% CI [-0.780, 0.013]; perm p = 0.0477; commit rate inc 1.000 / ent 0.556; n_inc 14, n_ent 9; controls logcap+greenfield+post2015"
+RV4 commitment within 36 months of RVD,entrant coefficient,26,-0.561,"95% CI [-0.897, -0.226]; rate inc 0.833 / ent 0.286"
+Interpretation rule,,33,,gap remains large in the filing-covered subset; incomplete and unequal filing coverage prevents ruling out disclosure-stage selection in the full universe

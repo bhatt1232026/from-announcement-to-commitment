@@ -1,0 +1,108 @@
+{
+  "authors": [
+    "Vivek Bhatt",
+    "Kapil Dwivedi",
+    "Amaresh Chandra Singh"
+  ],
+  "method": "strict rolling-origin + leave-physical-project-out + project-balanced empirical-Bayes stage shrinkage",
+  "stage_rows": 1955,
+  "pre2010_training_rows": 150,
+  "pre2010_training_projects": 3,
+  "prediction_rows": 5865,
+  "evaluation_cutoff_month": "2025-12",
+  "prior_strength_equivalent_projects": 4.0,
+  "gates": {
+    "no_missing_rolling_probabilities": true,
+    "probabilities_in_unit_interval": true,
+    "pre2010_training_used_in_2010": true,
+    "three_benchmarks_scored": true,
+    "three_horizons_scored": true,
+    "fixed_2025_12_evaluation_cutoff": true,
+    "focal_project_leaveout_enforced": true,
+    "calendar_endpoint_gate_enforced": true,
+    "project_balanced_calibration": true,
+    "sparse_cell_shrinkage_fixed": true
+  },
+  "all_gates_pass": true,
+  "score_table": [
+    {
+      "horizon_months": 12,
+      "model": "c1",
+      "n": 1862,
+      "brier": 0.7792696025778733,
+      "log_loss": 10.76600764262333
+    },
+    {
+      "horizon_months": 12,
+      "model": "rolling_stage",
+      "n": 1862,
+      "brier": 0.17198337826633328,
+      "log_loss": 0.5317702068339689
+    },
+    {
+      "horizon_months": 12,
+      "model": "unconditional",
+      "n": 1862,
+      "brier": 0.17501125730103936,
+      "log_loss": 0.5385633914520308
+    },
+    {
+      "horizon_months": 24,
+      "model": "c1",
+      "n": 1735,
+      "brier": 0.5659942363112392,
+      "log_loss": 7.819499781494557
+    },
+    {
+      "horizon_months": 24,
+      "model": "rolling_stage",
+      "n": 1735,
+      "brier": 0.2404019193220828,
+      "log_loss": 0.6785547243779521
+    },
+    {
+      "horizon_months": 24,
+      "model": "unconditional",
+      "n": 1735,
+      "brier": 0.2571244790071661,
+      "log_loss": 0.7091517124852643
+    },
+    {
+      "horizon_months": 36,
+      "model": "c1",
+      "n": 1610,
+      "brier": 0.40248447204968946,
+      "log_loss": 5.5605290705234145
+    },
+    {
+      "horizon_months": 36,
+      "model": "rolling_stage",
+      "n": 1610,
+      "brier": 0.23323711761287577,
+      "log_loss": 0.660301348636976
+    },
+    {
+      "horizon_months": 36,
+      "model": "unconditional",
+      "n": 1610,
+      "brier": 0.2516715753118632,
+      "log_loss": 0.6972871805978927
+    }
+  ],
+  "earliest_origin_by_horizon": {
+    "12": "2010-01",
+    "24": "2010-01",
+    "36": "2010-01"
+  },
+  "minimum_calibration_projects_by_horizon": {
+    "12": 3,
+    "24": 3,
+    "36": 3
+  },
+  "minimum_pre2010_training_projects_in_2010_by_horizon": {
+    "12": 3,
+    "24": 3,
+    "36": 3
+  },
+  "status": "PASS"
+}

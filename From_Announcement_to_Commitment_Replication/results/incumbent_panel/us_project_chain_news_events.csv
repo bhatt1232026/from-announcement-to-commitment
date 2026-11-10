@@ -1,0 +1,117 @@
+project_id,chain,month,sponsor,capacity_ktpa,A_news_ktpa,C_news_ktpa
+US_ETH_LYB_LAPORTE,ethylene,2012-07,LyondellBasell,363.0,0.0,363.0
+US_ETH_LYB_CHANNELVIEW_I,ethylene,2013-10,LyondellBasell,113.0,0.0,113.0
+US_ETH_SHELL_PA,ethylene,2016-06,Shell Chemical Appalachia,1500.0,0.0,1500.0
+US_ETH_CPCHEM_USGC,ethylene,2011-03,Chevron Phillips Chemical,1500.0,1500.0,0.0
+US_ETH_CPCHEM_USGC,ethylene,2013-10,Chevron Phillips Chemical,1500.0,-1500.0,1500.0
+US_ETH_EXXON_BAYTOWN,ethylene,2012-06,ExxonMobil,1500.0,1500.0,0.0
+US_ETH_GCGV,ethylene,2019-06,ExxonMobil / SABIC,1800.0,0.0,1800.0
+US_PE_BAYPORT,polyethylene,2018-09,Bayport Polymers (Total/Borealis/NOVA),625.0,0.0,625.0
+US_PE_LYB_HYPERZONE,polyethylene,2016-07,LyondellBasell,499.0,0.0,499.0
+US_MEOH_NWIW_TACOMA,methanol,2015-12,Northwest Innovation Works,7300.0,7300.0,0.0
+US_MEOH_NWIW_TACOMA,methanol,2016-04,Northwest Innovation Works,7300.0,-7300.0,0.0
+US_MEOH_NWIW_KALAMA,methanol,2014-04,Northwest Innovation Works,3600.0,3600.0,0.0
+US_MEOH_LEUCADIA_LC,methanol,2010-01,Leucadia Energy / Lake Charles Clean Energy,2658.1,2658.1,0.0
+US_MEOH_LEUCADIA_LC,methanol,2014-09,Leucadia Energy / Lake Charles Clean Energy,2658.1,-2658.1,0.0
+US_MEOH_SLM_STJAMES,methanol,2013-02,South Louisiana Methanol / SABIC,2000.0,2000.0,0.0
+US_MEOH_SLM_STJAMES,methanol,2023-02,South Louisiana Methanol / SABIC,2000.0,-2000.0,0.0
+US_MEOH_YUHUANG_STJAMES,methanol,2014-07,Yuhuang Chemical / Koch Methanol,1800.0,1800.0,0.0
+US_MEOH_YUHUANG_STJAMES,methanol,2017-03,Yuhuang Chemical / Koch Methanol,1800.0,-1800.0,1800.0
+US_MEOH_YUHUANG_STJAMES,methanol,2021-01,Yuhuang Chemical / Koch Methanol,1800.0,0.0,-1800.0
+US_MEOH_MX_G3,methanol,2019-07,Methanex,1800.0,0.0,1800.0
+US_ETHPE_GTP_ORANGE,ethylene,2019-07,Chevron Phillips Chemical / QatarEnergy,2080.0,2080.0,0.0
+US_ETHPE_GTP_ORANGE,ethylene,2022-11,Chevron Phillips Chemical / QatarEnergy,2080.0,-2080.0,2080.0
+US_MEOH_MX_G1,methanol,2012-07,Methanex,1000.0,0.0,1000.0
+US_MEOH_MX_G1,methanol,2015-01,Methanex,1000.0,0.0,-1000.0
+US_MEOH_MX_G2,methanol,2013-04,Methanex,1000.0,0.0,1000.0
+US_MEOH_MX_G2,methanol,2015-12,Methanex,1000.0,0.0,-1000.0
+US_MEOH_LYB_CHV,methanol,2012-07,LyondellBasell,780.0,0.0,780.0
+US_MEOH_LYB_CHV,methanol,2013-10,LyondellBasell,780.0,0.0,-780.0
+US_MEOH_FAIRWAY_CL,methanol,2013-05,Celanese / Mitsui,1300.0,0.0,1300.0
+US_MEOH_FAIRWAY_CL,methanol,2015-10,Celanese / Mitsui,1300.0,0.0,-1300.0
+US_MEOH_BIGLAKE,methanol,2013-01,Big Lake Fuels / G2X / Proman,1400.0,1400.0,0.0
+US_MEOH_BIGLAKE,methanol,2024-02,Big Lake Fuels / G2X / Proman,1400.0,-1400.0,0.0
+US_PE_GEMINI_LAPORTE,polyethylene,2013-07,INEOS / Sasol,470.0,470.0,0.0
+US_PE_GEMINI_LAPORTE,polyethylene,2014-06,INEOS / Sasol,470.0,-470.0,470.0
+US_PE_GEMINI_LAPORTE,polyethylene,2017-11,INEOS / Sasol,470.0,0.0,-470.0
+US_PE_EXXON_BEAUMONT,polyethylene,2016-11,ExxonMobil,650.0,650.0,0.0
+US_PE_FORMOSA_PC_EXP,polyethylene,2014-08,Formosa Plastics Corporation USA,800.0,800.0,0.0
+US_PE_DOW_FREEPORT_ELITE,polyethylene,2013-03,Dow,400.0,400.0,0.0
+US_PE_DOW_FREEPORT_ELITE,polyethylene,2013-08,Dow,400.0,-400.0,400.0
+US_PE_DOW_FREEPORT_ELITE,polyethylene,2017-09,Dow,400.0,0.0,-400.0
+US_PE_DOW_PLAQUEMINE_LDPE,polyethylene,2013-08,Dow,350.0,0.0,350.0
+US_PE_DOW_PLAQUEMINE_LDPE,polyethylene,2018-01,Dow,350.0,0.0,-350.0
+US_MEOH_LIBERTYONE_WV,methanol,2016-01,US Methanol / KKCG,200.0,200.0,0.0
+US_MEOH_SYNGAS_STJAMES,methanol,2015-10,Syngas Energy Holdings,500.0,500.0,0.0
+US_MEOH_IGP_MYRtle,methanol,2018-01,IGP Methanol LLC,7200.0,7200.0,0.0
+US_PE_DOW_STCHARLES_DEBOT,polyethylene,2016-01,Dow,125.0,125.0,0.0
+US_PE_ASCENT_WV,polyethylene,2013-11,Odebrecht / Braskem,1050.0,1050.0,0.0
+US_PE_BADLANDS_ND,polyethylene,2014-10,Badlands NGL,1530.0,1530.0,0.0
+US_PE_APPRESINS_OH,polyethylene,2014-09,Appalachian Resins,272.0,272.0,0.0
+US_PE_DOW_POLY7_FREEPORT,polyethylene,2017-05,Dow,600.0,0.0,600.0
+US_PE_DOW_POLY7_FREEPORT,polyethylene,2025-04,Dow,600.0,0.0,-600.0
+US_ETHPE_FORMOSA_SUNSHINE,ethylene,2015-09,FG LA LLC / Formosa Petrochemical,2400.0,2400.0,0.0
+US_ETH_WLK_PETRO2_LC,ethylene,2011-04,Westlake Chemical,108.9,0.0,108.9
+US_ETH_WLK_PETRO2_LC,ethylene,2013-01,Westlake Chemical,108.9,0.0,-108.9
+US_ETH_WLK_CALVERT14,ethylene,2012-10,Westlake Chemical,81.6,0.0,81.6
+US_ETH_WLK_CALVERT14,ethylene,2014-04,Westlake Chemical,81.6,0.0,-81.6
+US_ETH_WLK_PETRO1_LC,ethylene,2011-04,Westlake Chemical,113.4,0.0,113.4
+US_ETH_WLK_PETRO1_LC,ethylene,2016-04,Westlake Chemical,113.4,0.0,-113.4
+US_ETH_WILLIAMS_GEISMAR,ethylene,2011-01,Williams / Williams Partners,272.2,272.2,0.0
+US_ETH_WILLIAMS_GEISMAR,ethylene,2011-09,Williams / Williams Partners,272.2,-272.2,272.2
+US_ETH_WILLIAMS_GEISMAR,ethylene,2014-06,Williams / Williams Partners,272.2,0.0,-272.2
+US_ETH_CPCHEM_SWEENY14,ethylene,2013-06,Chevron Phillips Chemical,90.7,0.0,90.7
+US_ETH_CPCHEM_SWEENY14,ethylene,2014-12,Chevron Phillips Chemical,90.7,0.0,-90.7
+US_ETH_OXY_INGLESIDE,ethylene,2013-10,OxyChem / Mexichem,550.0,0.0,550.0
+US_ETH_OXY_INGLESIDE,ethylene,2017-02,OxyChem / Mexichem,550.0,0.0,-550.0
+US_ETH_LACC_LAKECHARLES,ethylene,2015-12,Lotte Chemical / Axiall,1000.0,0.0,1000.0
+US_ETH_LACC_LAKECHARLES,ethylene,2019-05,Lotte Chemical / Axiall (later Westlake),1000.0,0.0,-1000.0
+US_ETH_BAYSTAR_PORTARTHUR,ethylene,2017-03,TotalEnergies / Borealis / NOVA (Baystar),1000.0,1000.0,0.0
+US_ETH_BAYSTAR_PORTARTHUR,ethylene,2018-01,TotalEnergies / Borealis / NOVA (Baystar),1000.0,-1000.0,1000.0
+US_ETH_BAYSTAR_PORTARTHUR,ethylene,2022-07,TotalEnergies / Borealis / NOVA (Baystar),1000.0,0.0,-1000.0
+US_ETH_FORMOSA_PC_OL3,ethylene,2014-01,Formosa Plastics Corporation USA,1200.0,0.0,1200.0
+US_ETH_FORMOSA_PC_OL3,ethylene,2020-01,Formosa Plastics Corporation USA,1200.0,0.0,-1200.0
+US_ETH_DOW_STCHARLES_RESTART,ethylene,2011-04,Dow / Union Carbide,400.0,400.0,0.0
+US_ETH_DOW_STCHARLES_RESTART,ethylene,2012-05,Dow / Union Carbide,400.0,-400.0,400.0
+US_ETH_DOW_STCHARLES_RESTART,ethylene,2012-12,Dow / Union Carbide,400.0,0.0,-400.0
+US_PP_BRASKEM_DELTA,polypropylene,2017-06,Braskem,450.0,0.0,450.0
+US_PP_BRASKEM_DELTA,polypropylene,2020-06,Braskem,450.0,0.0,-450.0
+US_PP_EXXON_BATON_ROUGE,polypropylene,2019-03,ExxonMobil,450.0,0.0,450.0
+US_PP_EXXON_BATON_ROUGE,polypropylene,2022-12,ExxonMobil,450.0,0.0,-450.0
+US_PDH_ENTERPRISE_1,propylene_PGP,2012-06,Enterprise Products Partners,750.0,750.0,0.0
+US_PDH_ENTERPRISE_1,propylene_PGP,2013-01,Enterprise Products Partners,750.0,-750.0,750.0
+US_PDH_ENTERPRISE_1,propylene_PGP,2018-04,Enterprise Products Partners,750.0,0.0,-750.0
+US_PDH_ENTERPRISE_2,propylene_PGP,2019-09,Enterprise Products Partners,748.0,0.0,748.0
+US_PDH_ENTERPRISE_2,propylene_PGP,2023-08,Enterprise Products Partners,748.0,0.0,-748.0
+US_PROP_LYB_FLEX2,propylene_PGP,2025-03,LyondellBasell,400.0,0.0,400.0
+US_EO_HUNTSMAN_PORT_NECHES,EO_MEG,2012-04,Huntsman,120.0,120.0,0.0
+US_MEG_MEGLOBAL_OYSTER_CREEK,EO_MEG,2016-01,MEGlobal / EQUATE,750.0,750.0,0.0
+US_MEG_MEGLOBAL_OYSTER_CREEK,EO_MEG,2016-03,MEGlobal / EQUATE,750.0,-750.0,750.0
+US_MEG_MEGLOBAL_OYSTER_CREEK,EO_MEG,2019-10,MEGlobal / EQUATE,750.0,0.0,-750.0
+US_PVC_SHINTECH_2013_EXP,PVC_VCM,2013-06,Shintech / Shin-Etsu,300.0,0.0,300.0
+US_PVC_SHINTECH_2013_EXP,PVC_VCM,2015-01,Shintech / Shin-Etsu,300.0,0.0,-300.0
+US_PVC_SHINTECH_2018_PHASE1,PVC_VCM,2018-07,Shintech / Shin-Etsu,290.0,0.0,290.0
+US_PVC_SHINTECH_2018_PHASE1,PVC_VCM,2021-01,Shintech / Shin-Etsu,290.0,0.0,-290.0
+US_PVC_SHINTECH_2021_PHASE2,PVC_VCM,2021-01,Shintech / Shin-Etsu,380.0,0.0,380.0
+US_PVC_SHINTECH_2021_PHASE2,PVC_VCM,2024-01,Shintech / Shin-Etsu,380.0,0.0,-380.0
+US_PP_FORMOSA_PP3,polypropylene,2018-05,Formosa Plastics Corporation USA,250.0,250.0,0.0
+US_PDH_FORMOSA_POINT_COMFORT,propylene_PGP,2012-02,Formosa Plastics Corporation USA,545.0,545.0,0.0
+US_ETH_LACC_LAKECHARLES,EO_MEG,2015-12,Lotte Chemical / Axiall,700.0,0.0,700.0
+US_ETH_LACC_LAKECHARLES,EO_MEG,2019-05,Lotte Chemical / Axiall (later Westlake),700.0,0.0,-700.0
+US_PVC_FORMOSA_BATON_ROUGE_2017,PVC_VCM,2017-12,Formosa Plastics Corporation USA,136.0,136.0,0.0
+US_PVC_FORMOSA_BATON_ROUGE_2017,PVC_VCM,2019-08,Formosa Plastics Corporation USA,136.0,-136.0,136.0
+US_PVC_FORMOSA_BATON_ROUGE_2017,PVC_VCM,2024-07,Formosa Plastics Corporation USA,136.0,0.0,-136.0
+US_PVC_WESTLAKE_CALVERT_2012,PVC_VCM,2012-10,Westlake Chemical,90.7,0.0,90.7
+US_PVC_WESTLAKE_CALVERT_2012,PVC_VCM,2014-01,Westlake Chemical,90.7,0.0,-90.7
+US_PVC_WESTLAKE_GEISMAR_2018,PVC_VCM,2018-02,Westlake Chemical,228.0,0.0,228.0
+US_PVC_WESTLAKE_GEISMAR_2018,PVC_VCM,2020-02,Westlake Chemical,228.0,0.0,-228.0
+US_PROP_BASF_FREEPORT_MTP,propylene_PGP,2014-05,BASF,475.0,475.0,0.0
+US_PDH_ASCEND_CHOCBAY,propylene_PGP,2013-05,Ascend Performance Materials / C3 Petrochemicals,1000.0,1000.0,0.0
+US_PDH_REXTAC_ODESSA,propylene_PGP,2013-11,REXtac / Rexpro,300.0,300.0,0.0
+US_PDH_REXTAC_ODESSA,propylene_PGP,2015-09,REXtac / Rexpro,300.0,-300.0,0.0
+US_ETH_CPCHEM_USGC,polyethylene,2011-03,Chevron Phillips Chemical,1000.0,1000.0,0.0
+US_ETH_CPCHEM_USGC,polyethylene,2013-10,Chevron Phillips Chemical,1000.0,-1000.0,1000.0
+US_ETH_EXXON_BAYTOWN,polyethylene,2012-06,ExxonMobil,1300.0,1300.0,0.0
+US_ETH_GCGV,polyethylene,2019-06,ExxonMobil / SABIC,1300.0,0.0,1300.0
+US_ETH_GCGV,EO_MEG,2019-06,ExxonMobil / SABIC,1100.0,0.0,1100.0
+US_MEOH_FAIRWAY_CL_EXP2019,methanol,2019-04,Celanese / Mitsui,400.0,0.0,400.0

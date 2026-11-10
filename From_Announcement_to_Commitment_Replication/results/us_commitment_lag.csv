@@ -1,0 +1,3 @@
+sponsor_status,count,median,mean,mannwhitney_p
+entrant,6,10.5,12.8,0.633
+incumbent,34,3.5,11.0,0.633

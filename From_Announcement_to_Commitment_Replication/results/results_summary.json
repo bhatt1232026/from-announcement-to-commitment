@@ -1,0 +1,29 @@
+{
+  "study": "From Announcement to Commitment: Market Incumbency and the Credibility of U.S. Petrochemical Capacity Plans",
+  "authors": [
+    "Vivek Bhatt",
+    "Kapil Dwivedi",
+    "Amaresh Chandra Singh"
+  ],
+  "us_primary": {
+    "n": 76,
+    "incumbent_rate": 0.958,
+    "entrant_rate": 0.393,
+    "b": -0.392,
+    "ci95": [
+      -0.625,
+      -0.159
+    ],
+    "perm_p": 0.0001
+  },
+  "china_direction_consistent": false,
+  "incumbent_panel_support_sufficient": false,
+  "incumbent_panel_outcome_model_estimated": false,
+  "brier_stage_vs_chain_significant_any_horizon": false,
+  "brier_stage_vs_unconditional_significant_any_horizon": false,
+  "foreign_movement_composition_percent": {
+    "Project information": 38.96,
+    "Commissioning exit": 27.22,
+    "Model recalibration": 33.82
+  }
+}

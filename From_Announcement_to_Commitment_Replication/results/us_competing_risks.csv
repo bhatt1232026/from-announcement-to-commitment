@@ -1,0 +1,3 @@
+group,n,CIF_commit_24m,CIF_commit_36m,CIF_commit_60m,CIF_commit_96m,CIF_cancel_24m,CIF_cancel_36m,CIF_cancel_60m,CIF_cancel_96m,CIF_commit_60m_boot95
+entrant,22,0.227,0.273,0.273,0.273,0.091,0.136,0.186,0.235,"[0.091, 0.455]"
+incumbent,36,0.75,0.861,0.944,0.944,0.0,0.0,0.0,0.0,"[0.861, 1.000]"

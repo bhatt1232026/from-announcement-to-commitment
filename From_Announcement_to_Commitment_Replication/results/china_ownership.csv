@@ -1,0 +1,9 @@
+ownership,status,count,sum,mean
+central_SOE,established,14,6,0.429
+central_SOE,newcomer,1,0,0.0
+foreign,established,2,1,0.5
+foreign_JV,established,1,1,1.0
+local_SOE,established,5,3,0.6
+local_SOE,newcomer,3,3,1.0
+private,established,6,5,0.833
+private,newcomer,14,13,0.929

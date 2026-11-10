@@ -1,0 +1,15 @@
+sample,n,n_incumbent,n_entrant,commit_rate_incumbent,commit_rate_entrant,raw_gap,b_entrant,se_hc1,ci95_lo,ci95_hi,p_hc1,controls,chains_with_both,fisher_p,perm_p_within_chain
+"PRIMARY: ambiguous excluded, first public <= 2022-12",76,48,28,0.958,0.393,-0.565,-0.392,0.119,-0.625,-0.159,0.000954,logcap+greenfield+post2015,5,6e-08,0.0001
+C1a ambiguous as incumbent,79,51,28,0.961,0.393,-0.568,-0.416,0.113,-0.638,-0.194,0.000234,logcap+greenfield+post2015,5,3e-08,0.0001
+C1b ambiguous as entrant,79,48,31,0.958,0.452,-0.507,-0.345,0.109,-0.558,-0.132,0.001488,logcap+greenfield+post2015,5,3.5e-07,0.0002
+C2 excluding methanol,59,47,12,0.957,0.25,-0.707,-0.633,0.159,-0.944,-0.322,6.6e-05,logcap+greenfield+post2015,4,8.6e-07,0.0001
+C3 excluding >2500 kt/y,72,48,24,0.958,0.458,-0.5,-0.387,0.117,-0.616,-0.157,0.000969,logcap+greenfield+post2015,5,2.52e-06,0.0001
+C4 greenfield only,16,3,13,1.0,0.077,-0.923,-0.955,0.062,-1.075,-0.834,0.0,logcap+post2015,1,0.00714286,0.0978
+C5 leave out EO_MEG,73,46,27,0.978,0.407,-0.571,-0.38,0.116,-0.607,-0.153,0.001036,logcap+greenfield+post2015,4,3e-08,0.0001
+C5 leave out PVC_VCM,70,42,28,0.952,0.393,-0.56,-0.392,0.12,-0.626,-0.157,0.00108,logcap+greenfield+post2015,5,3e-07,0.0001
+C5 leave out ethylene,50,28,22,0.929,0.364,-0.565,-0.258,0.157,-0.565,0.05,0.100355,logcap+greenfield+post2015,4,3.171e-05,0.0048
+C5 leave out methanol,59,47,12,0.957,0.25,-0.707,-0.633,0.159,-0.944,-0.322,6.6e-05,logcap+greenfield+post2015,4,8.6e-07,0.0001
+C5 leave out polyethylene,62,37,25,0.946,0.44,-0.506,-0.369,0.124,-0.611,-0.127,0.0028,logcap+greenfield+post2015,4,1.131e-05,0.0001
+C5 leave out polypropylene,73,45,28,0.956,0.393,-0.563,-0.392,0.12,-0.626,-0.157,0.001056,logcap+greenfield+post2015,5,1.4e-07,0.0001
+C5 leave out propylene,69,43,26,0.977,0.423,-0.554,-0.341,0.119,-0.574,-0.109,0.004065,logcap+greenfield+post2015,4,1.8e-07,0.0001
+C6 including first public after 2022-12,80,50,30,0.94,0.367,-0.573,-0.363,0.118,-0.594,-0.133,0.002031,logcap+greenfield+post2015,5,4e-08,0.0001

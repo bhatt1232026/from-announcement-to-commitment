@@ -1,0 +1,11 @@
+result,value,unit
+U.S. primary sample projects,76,projects
+Incumbent commitment rate,95.8,percent
+Entrant commitment rate,39.3,percent
+Adjusted entrant coefficient,-0.392,probability points
+Adjusted coefficient 95% CI lower,-0.625,probability points
+Adjusted coefficient 95% CI upper,-0.159,probability points
+Within-chain permutation p,0.0001,p-value
+China established realization rate,57.1,percent
+China newcomer realization rate,88.9,percent
+Incumbent panel fixed-effect support sufficient,False,boolean

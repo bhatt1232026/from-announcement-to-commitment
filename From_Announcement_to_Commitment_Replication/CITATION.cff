@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the article and this replication package."
+type: software
+title: "From Announcement to Commitment: Market Incumbency and the Credibility of U.S. Petrochemical Capacity Plans. Replication package"
+version: "1.0.0"
+date-released: 2026-11-06
+authors:
+  - family-names: Bhatt
+    given-names: Vivek
+    affiliation: "PregleAI Research & Smart Solutions, India"
+    orcid: "https://orcid.org/0009-0003-0495-8902"
+    email: bhatt123@gmail.com
+  - family-names: Dwivedi
+    given-names: Kapil
+    affiliation: "PregleAI Research & Smart Solutions, India"
+    orcid: "https://orcid.org/0009-0005-1224-8112"
+    email: kapildbackup@gmail.com
+  - family-names: Singh
+    given-names: Amaresh Chandra
+    affiliation: "Isnartech Pvt. Ltd., India"
+    orcid: "https://orcid.org/0009-0006-6165-3904"
+    email: amaresh0787@gmail.com
+keywords:
+  - capacity announcements
+  - credibility
+  - market incumbency
+  - petrochemicals
+  - investment commitment

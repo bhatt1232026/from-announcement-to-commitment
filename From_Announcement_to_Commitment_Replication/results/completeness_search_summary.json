@@ -1,0 +1,7 @@
+{
+  "admitted": 12,
+  "admitted_incumbent": 4,
+  "admitted_entrant": 7,
+  "admitted_ambiguous": 1,
+  "admitted_by_outcome": "{('ambiguous', 'committed'): 1, ('entrant', 'cancelled'): 1, ('entrant', 'committed'): 1, ('entrant', 'pending'): 5, ('incumbent', 'committed'): 2, ('incumbent', 'pending'): 2}"
+}
